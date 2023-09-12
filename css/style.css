@@ -1,4 +1,118 @@
+li {list-style-type: none;}
+
 body {
-    font-family: "Roboto";
-    color: #4D5AE5;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: rgba(67, 68, 85, 1);
+        }
+
+    .logo_start {
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        color: rgba(77, 90, 229, 1);
+        list-style-type: none;
+        text-decoration: none
+    }
+
+    .logo_end {
+        color: rgba(46, 47, 66, 1);
+    }
+
+    nav a {
+        color: rgba(46, 47, 66, 1);
+        background-color: rgba(255, 255, 255, 1);
+        font-size: 16px;
+        line-height: 1.50;
+        font-weight: 500;
+        letter-spacing: 2%;
+        list-style-type: none;
+        text-decoration: none;
+        }    
+
+    address a {
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
+            color: rgba(67, 68, 85, 1);
+            list-style-type: none;
+            text-decoration: none;
+    }
+
+    .team_list {
+        text-align: center;
+    }
+    
+    h1 {font-family: Roboto; 
+        color: rgba(255, 255, 255, 1);
+        font-weight: 700; 
+        font-Size: 56px; 
+        Letter-Spacing: 2%; 
+        line-Height: 60px;
+        text-align: center;
+        background-color: rgba(46, 47, 66, 1);
+        }
+    
+        
+    
+
+    h2 {
+        font-family: Roboto;
+        font-weight: 700;
+        font-Size: 36px;
+        Letter-Spacing: 2%;
+        line-Height: 60px;
+        text-align: center;
+        line-height: 1.44;
+    }
+
+    h3 {
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 2%;
+        text-align: left;
+        color: rgba(46, 47, 66, 1);
+    }
+
+    .logo_footer_start {
+            font-family: Raleway;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 21px;
+            letter-spacing: 0.03em;
+            text-align: left;
+            color: rgba(77, 90, 229, 1);
+            list-style-type: none;
+            text-decoration: none
+    }
+    
+    .logo_footer_end {
+            color: rgba(244, 244, 253, 1);
+    }
+    
+    footer {
+        background-color: rgba(46, 47, 66, 1);
+    }
+
+    footer p {
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
+            color: rgba(244, 244, 253, 1);
+
     }
