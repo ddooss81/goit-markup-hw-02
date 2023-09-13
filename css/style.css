@@ -83,9 +83,14 @@ body {
         line-height: 1.2;
     }
 
-    /*.section_second p {
-        line-height: 1.5;
-    }*/
+    .section_third {
+        background-color: #F4F4FD;
+        line-height: 1.11;
+        text-transform: capitalize;
+        font-weight: 500;
+        font-size: 20px;
+
+    }
 
     .section_h_first {
         font-family: Roboto; 
@@ -131,7 +136,8 @@ body {
         letter-spacing: 0.02em;
         line-height: 1.2;
         text-align: left;
-        color: rgba(46, 47, 66, 1);
+        color: #2e2f42;
+        background-color: #FFFFFF
     }
 
     .logo_footer_start {
