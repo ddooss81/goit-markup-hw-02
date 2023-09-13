@@ -58,7 +58,7 @@ body {
             color: rgba(67, 68, 85, 1);
             list-style-type: none;
             text-decoration: none;
-            font-style: normal
+            font-style: normal;
     }
 
     .address_style:hover, .address_style:focus {
@@ -69,7 +69,7 @@ body {
         text-align: center;
     }
     
-    h1 {font-family: Roboto; 
+    .section_h1 {font-family: Roboto; 
         color: rgba(255, 255, 255, 1);
         font-weight: 700; 
         font-Size: 56px; 
@@ -82,7 +82,7 @@ body {
         
     
 
-    h2 {
+    .section_h2 {
         font-family: Roboto;
         font-weight: 700;
         font-Size: 36px;
@@ -92,7 +92,7 @@ body {
         line-height: 1.44;
     }
 
-    h3 {
+    .section_h3 {
         font-family: Roboto;
         font-size: 20px;
         font-weight: 500;
