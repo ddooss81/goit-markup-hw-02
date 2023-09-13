@@ -83,9 +83,9 @@ body {
         line-height: 1.2;
     }
 
-    .section_second p {
+    /*.section_second p {
         line-height: 1.5;
-    }
+    }*/
 
     .section_h_first {
         font-family: Roboto; 
@@ -165,6 +165,6 @@ body {
 
     }
 
-    /* .paragr_section_two {
+    .paragr_section_two {
         line-height: 1.5;
     }
