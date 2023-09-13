@@ -83,14 +83,7 @@ body {
         line-height: 1.2;
     }
 
-    .section_third {
-        background-color: #F4F4FD;
-        line-height: 1.11;
-        text-transform: capitalize;
-        font-weight: 500;
-        font-size: 20px;
-
-    }
+    
 
     .section_h_first {
         font-family: Roboto; 
@@ -128,16 +121,25 @@ body {
      
     }
 
+    .section_third {
+        background-color: #F4F4FD;
+        line-height: 1.11;
+        text-transform: capitalize;
+        font-weight: 500;
+        font-size: 20px;
+
+    }
     .section_h_third {
         font-family: Roboto;
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.02em;
-        line-height: 1.2;
+        line-height: 1.11;
         text-align: left;
         color: #2e2f42;
-        background-color: #FFFFFF
+        background-color: #2e2f42;
+        text-transform: capitalize;
     }
 
     .logo_footer_start {
