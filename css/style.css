@@ -12,7 +12,7 @@ body {
         }
 
     .logo_start {
-        font-family: Raleway;
+        font-family: "Raleway", sans-serif
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -21,12 +21,12 @@ body {
         color: rgba(77, 90, 229, 1);
         list-style-type: none;
         text-decoration: none;
-        text-transform: uppercase;
+        text-transform: uppercase
     }
 
     .logo_end {
         color: rgba(46, 47, 66, 1);
-        text-transform: uppercase;
+        text-transform: uppercase
     }
 
     nav a {
