@@ -33,7 +33,7 @@ body {
     color: #404bbf;
     }
 
-    nav > a >.nav_list {
+    .nav_list {
         color: #2e2f42;
         background-color: rgba(255, 255, 255, 1);
         font-size: 16px;
