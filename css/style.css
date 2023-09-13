@@ -106,10 +106,10 @@ body {
         font-family: Roboto;
         font-weight: 700;
         font-Size: 36px;
-        Letter-Spacing: 2%;
-        line-Height: 60px;
+        letter-spacing: 0.02em;
+        line-height: 1.5;
         text-align: center;
-        line-height: 1.44;
+     
     }
 
     .section_h_third {
@@ -117,7 +117,8 @@ body {
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
-        letter-spacing: 2%;
+        letter-spacing: 0.02em;
+        line-height: 1.5;
         text-align: left;
         color: rgba(46, 47, 66, 1);
     }
