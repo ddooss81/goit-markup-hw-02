@@ -77,6 +77,15 @@ body {
         letter-spacing: 0.02em;
         color: #ffffff;
     }
+    
+    .section_second {
+        line-height: 1.2;
+    }
+
+    .section_second p {
+        line-height: 1.5
+    }
+
     .section_h_first {font-family: Roboto; 
         color: #ffffff;
         font-weight: 700; 
@@ -107,7 +116,7 @@ body {
         font-weight: 700;
         font-Size: 36px;
         letter-spacing: 0.02em;
-        line-height: 1.5;
+        line-height: 1.2;
         text-align: center;
      
     }
