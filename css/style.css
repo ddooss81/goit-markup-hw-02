@@ -71,10 +71,14 @@ body {
     
     .section_1 {
         background-color: #2e2f42;
-
+        font-Size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #ffffff;
     }
     .section_h1 {font-family: Roboto; 
-        color: color: #ffffff
+        color: #ffffff;
         font-weight: 700; 
         font-Size: 56px; 
         Letter-Spacing: 0.02em; 
