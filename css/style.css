@@ -164,3 +164,7 @@ body {
             color: rgba(244, 244, 253, 1);
 
     }
+
+    .paragr_section_two {
+        line-height: 1.5;
+    }
