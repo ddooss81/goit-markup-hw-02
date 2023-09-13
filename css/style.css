@@ -23,19 +23,23 @@ body {
         text-decoration: none;
         text-transform: uppercase
     }
-
+    
     .logo_end {
         color: rgba(46, 47, 66, 1);
         text-transform: uppercase
     }
 
-    nav a {
-        color: rgba(46, 47, 66, 1);
+    .logo_start:hover, .logo_end:focus {
+    color: #404bbf;
+    }
+    
+    .nav_list {
+        color: #2e2f42;
         background-color: rgba(255, 255, 255, 1);
         font-size: 16px;
         line-height: 1.50;
         font-weight: 500;
-        letter-spacing: 2%;
+        letter-spacing: 0.02;
         list-style-type: none;
         text-decoration: none;
         }    
