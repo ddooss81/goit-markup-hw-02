@@ -69,17 +69,32 @@ body {
         text-align: center;
     }
     
+    .section_1 {
+        background-color: #2e2f42;
+
+    }
     .section_h1 {font-family: Roboto; 
-        color: rgba(255, 255, 255, 1);
+        color: color: #ffffff
         font-weight: 700; 
         font-Size: 56px; 
-        Letter-Spacing: 2%; 
-        line-Height: 60px;
+        Letter-Spacing: 0.02em; 
+        line-Height: 1.07;
         text-align: center;
         background-color: rgba(46, 47, 66, 1);
         }
     
-        
+    .class_botoom {
+        background-color: #4D5AE5;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff;
+        cursor: pointer;
+    }
+    
+        .class_botoom:hover, .class_botoom:focus {
+            background-color: #404BBF;
+        }
     
 
     .section_h2 {
