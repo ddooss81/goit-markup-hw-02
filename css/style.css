@@ -69,7 +69,7 @@ body {
         text-align: center;
     }
     
-    .section_1 {
+    .section_first {
         background-color: #2e2f42;
         font-Size: 56px;
         line-height: 1.07;
@@ -77,7 +77,7 @@ body {
         letter-spacing: 0.02em;
         color: #ffffff;
     }
-    .section_h1 {font-family: Roboto; 
+    .section_h_first {font-family: Roboto; 
         color: #ffffff;
         font-weight: 700; 
         font-Size: 56px; 
@@ -94,6 +94,7 @@ body {
         letter-spacing: 0.04em;
         color: #ffffff;
         cursor: pointer;
+        font-size: 16px;
     }
     
         .class_botoom:hover, .class_botoom:focus {
@@ -101,7 +102,7 @@ body {
         }
     
 
-    .section_h2 {
+    .section_h_second {
         font-family: Roboto;
         font-weight: 700;
         font-Size: 36px;
@@ -111,7 +112,7 @@ body {
         line-height: 1.44;
     }
 
-    .section_h3 {
+    .section_h_third {
         font-family: Roboto;
         font-size: 20px;
         font-weight: 500;
