@@ -48,7 +48,7 @@ body {
             color: #404bbf
         }
 
-    address a {
+    .address_style {
             font-family: Roboto;
             font-size: 16px;
             font-weight: 400;
@@ -58,6 +58,11 @@ body {
             color: rgba(67, 68, 85, 1);
             list-style-type: none;
             text-decoration: none;
+            font-style: normal
+    }
+
+    .address_style:hover, .address_style:focus {
+        color: #404bbf;
     }
 
     .team_list {
