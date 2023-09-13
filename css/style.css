@@ -4,7 +4,7 @@ body {
         font-family: "Roboto", sans-serif;
         font-size: 16px;
         font-weight: 400;
-        line-height: 24/16 24px;
+        line-height: =14.906832%; /* 24/161 */
         letter-spacing: 0.02em;
         text-align: left;
         color: rgba(67, 68, 85, 1);
