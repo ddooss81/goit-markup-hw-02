@@ -143,16 +143,19 @@ body {
             letter-spacing: 0.02em;
             text-transform: capitalize;
         }
-    .section_third li {
+    /*.section_third li {
                 background-color: #F4F4FD;
-        }
+        }*/
+
     .section_third p{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
     }
-
+.team_list {
+        text-align: center;
+        line-height: 1.5;
     /*.section_second {
         line-height: 1.2;
     }
@@ -189,9 +192,7 @@ body {
         text-align: center
     }
     */ 
-    .team_list {
-        text-align: center;
-        line-height: 1.5;
+    
     }
     .logo_footer_start {
             font-family: Raleway;
