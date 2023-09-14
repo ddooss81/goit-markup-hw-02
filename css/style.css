@@ -104,6 +104,20 @@ body {
 
 
     .section_second {
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42
+    }
+
+    .paragr_section_two {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
+
+    /*.section_second {
         line-height: 1.2;
     }
 
@@ -138,7 +152,8 @@ body {
         text-transform: capitalize;
         text-align: center
     }
-.team_list {
+    */ 
+    .team_list {
         text-align: center;
         line-height: 1.5;
     }
@@ -173,6 +188,3 @@ body {
 
     }
 
-    .paragr_section_two {
-        line-height: 1.5;
-    }
