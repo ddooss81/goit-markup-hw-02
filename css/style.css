@@ -163,6 +163,19 @@ body {
         line-height: 1.2;
         letter-spacing: 0.02em;
         background-color: #FFFFFF;
+    }
+
+    .section_fourth_title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+    }
+
+    .section_fourth_p {
+
+        }
 
     /*.section_second {
         line-height: 1.2;
