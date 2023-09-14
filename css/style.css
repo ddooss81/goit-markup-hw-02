@@ -44,7 +44,7 @@ body {
         text-decoration: none;
         }    
 
-        .nav_list:hover, .nav_list:focus {
+    .nav_list:hover, .nav_list:focus {
             color: #404bbf
         }
 
@@ -65,10 +65,7 @@ body {
         color: #404bbf;
     }
 
-    .team_list {
-        text-align: center;
-        line-height: 1.5;
-    }
+    
     
     .section_first {
         background-color: #2e2f42;
@@ -78,12 +75,6 @@ body {
         letter-spacing: 0.02em;
         color: #ffffff;
     }
-    
-    .section_second {
-        line-height: 1.2;
-    }
-
-    
 
     .section_h_first {
         font-family: Roboto; 
@@ -95,7 +86,7 @@ body {
         text-align: center;
         background-color: rgba(46, 47, 66, 1);
         }
-    
+
     .class_botoom {
         background-color: #4D5AE5;
         font-weight: 500;
@@ -106,10 +97,13 @@ body {
         font-size: 16px;
     }
     
-        .class_botoom:hover, .class_botoom:focus {
+    .class_botoom:hover, .class_botoom:focus {
             background-color: #404BBF;
-        }
-    
+        }    
+
+    .section_second {
+        line-height: 1.2;
+    }
 
     .section_h_second {
         font-family: Roboto;
@@ -135,13 +129,16 @@ body {
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.02em;
-        line-height: 1.11;
+        line-height: 1.2;
         text-align: left;
         color: #2e2f42;
         background-color: #2e2f42;
         text-transform: capitalize;
     }
-
+.team_list {
+        text-align: center;
+        line-height: 1.5;
+    }
     .logo_footer_start {
             font-family: Raleway;
             font-size: 18px;
