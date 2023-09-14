@@ -172,7 +172,7 @@ body {
             letter-spacing: 0.02em;
             color: #2e2f42;
         }
-    .section_fourth_title {
+        .section_fourth_title {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -180,11 +180,15 @@ body {
         color: #2e2f42;
     }
 
-    .section_fourth_p {
+        .section_fourth_p {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        }
+
+        .foot {
+
         }
 
         .logo_footer_start{
@@ -199,6 +203,11 @@ body {
 
         .logo_footer_end{
             color: #f4f4fd;
+        }
+        .footer_p {
+            line-height: 1.5;
+            color: #F4F4FD;
+            letter-spacing: 0.02em;
         }
 
     /*.section_second {
