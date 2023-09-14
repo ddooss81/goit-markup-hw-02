@@ -132,6 +132,7 @@ body {
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        color: #2e2f42;
     }
 
    /* .section_h_third {
@@ -143,7 +144,7 @@ body {
             letter-spacing: 0.02em;
             text-transform: capitalize;
         }*/
-        
+
     /*.section_third li {
                 background-color: #F4F4FD;
         }*/
