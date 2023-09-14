@@ -142,6 +142,9 @@ body {
             letter-spacing: 0.02em;
             text-transform: capitalize;
         }
+    .section_third > li {
+                background-color: #F4F4FD;
+        }
 
     /*.section_second {
         line-height: 1.2;
