@@ -105,9 +105,10 @@ body {
 
     .section_second {
         font-size: 20px;
+        font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2e2f42
+        color: #2e2f42;
     }
 
     .paragr_section_two {
@@ -117,7 +118,7 @@ body {
         color: #434455;
     }
 
-    .class="section_second_title" {
+    .section_second_title {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
