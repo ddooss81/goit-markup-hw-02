@@ -128,15 +128,15 @@ body {
     }
     .section_h_third {
         font-family: Roboto;
-        font-size: 20px;
         font-weight: 500;
-        line-height: 24px;
+        line-height: 36px;
         letter-spacing: 0.02em;
-        line-height: 1.2;
+        line-height: 1.11;
         text-align: left;
         color: #2e2f42;
-        background-color: #2e2f42;
+        background-color: #F4F4FD;
         text-transform: capitalize;
+        text-align: center
     }
 .team_list {
         text-align: center;
