@@ -6,7 +6,6 @@ body {
         /* font-weight: 400; */
         line-height: 14.906832%;
         /*letter-spacing: 0.02em;*/
-        /*text-align: left;*/
         color: rgba(67, 68, 85, 1);
         background-color: #FFFFFF
         }
@@ -17,7 +16,6 @@ body {
         font-weight: 700;
         line-height: 1.17;
         letter-spacing: 0.03em;
-        /*text-align: left;*/
         color: #4d5ae5;
         list-style-type: none;
         text-decoration: none;
@@ -54,7 +52,6 @@ body {
             /* font-weight: 400; */
             line-height: 24px;
             /*letter-spacing: 0.02em;*/
-            /*text-align: left;*/
             color: rgba(67, 68, 85, 1);
             list-style-type: none;
             text-decoration: none;
@@ -239,7 +236,6 @@ body {
         line-height: 36px;
         /*letter-spacing: 0.02em;*/
         line-height: 1.11;
-        text-align: left;
         color: #2e2f42;
         background-color: #F4F4FD;
         text-transform: capitalize;
@@ -253,7 +249,6 @@ body {
             font-weight: 700;
             line-height: 21px;
             letter-spacing: 0.03em;
-            /*text-align: left;*/
             color: rgba(77, 90, 229, 1);
             list-style-type: none;
             text-decoration: none
@@ -273,7 +268,6 @@ body {
             /* font-weight: 400; */
             line-height: 24px;
             /*letter-spacing: 0.02em;*/
-            /*text-align: left;*/
             color: rgba(244, 244, 253, 1);
 
     }
