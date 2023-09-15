@@ -198,11 +198,7 @@ body {
             color: #f4f4fd;
         }
         
-        /*.footer_p {
-            line-height: 1.5;
-            color: #F4F4FD;
-            /*letter-spacing: 0.02em;
-        }*/
+
 
     /*.section_second {
         line-height: 1.2;
@@ -258,14 +254,12 @@ body {
     footer {
         background-color: rgba(46, 47, 66, 1);
     }
-
-    footer p {
-            /*font-family: Roboto;*/
-            /*font-size: 16px;*/
-            /* font-weight: 400; */
-            line-height: 24px;
+    
+        .footer_p {
+            line-height: 1.5;
+            color: #F4F4FD;
             letter-spacing: 0.02em;
-            color: rgba(244, 244, 253, 1);
+            line-height: 24px;
+        }
 
-    }
 
