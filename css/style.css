@@ -1,4 +1,4 @@
-list-style-type: none;
+li {list-style-type: none;}
 
 body {
         font-family: "Roboto", sans-serif;
