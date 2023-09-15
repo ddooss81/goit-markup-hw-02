@@ -197,11 +197,12 @@ body {
         .logo_footer_end{
             color: #f4f4fd;
         }
-        .footer_p {
+        
+        /*.footer_p {
             line-height: 1.5;
             color: #F4F4FD;
-            /*letter-spacing: 0.02em;*/
-        }
+            /*letter-spacing: 0.02em;
+        }*/
 
     /*.section_second {
         line-height: 1.2;
