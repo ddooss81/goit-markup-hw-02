@@ -151,6 +151,10 @@ body {
     /*.section_third li {
                 background-color: #F4F4FD;
         }*/
+    .section_third_li {
+        background-color: #FFFFFF;
+        
+    }
 
     .section_third p{
         font-size: 16px;
