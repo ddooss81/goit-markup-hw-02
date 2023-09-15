@@ -66,6 +66,7 @@ body {
     
     .section_first {
         background-color: #2e2f42;
+        letter-spacing: 0.02em;
         /*font-Size: 56px;
         line-height: 1.07;
         text-align: center;
