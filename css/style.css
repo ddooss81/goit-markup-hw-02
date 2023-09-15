@@ -66,11 +66,11 @@ body {
     
     .section_first {
         background-color: #2e2f42;
-        font-Size: 56px;
+        /*font-Size: 56px;
         line-height: 1.07;
         text-align: center;
-        /*letter-spacing: 0.02em;*/
-        color: #ffffff;
+        letter-spacing: 0.02em;
+        color: #ffffff;*/
     }
 
     .section_h_first {
