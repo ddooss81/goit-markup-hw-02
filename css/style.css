@@ -112,7 +112,7 @@ body {
     .paragr_section_two {
         /*font-size: 16px;*/
         line-height: 1.5;
-        /*letter-spacing: 0.02em;*/
+        letter-spacing: 0.02em;
         color: #434455;
     }
 
