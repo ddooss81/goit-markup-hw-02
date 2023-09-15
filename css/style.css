@@ -153,12 +153,12 @@ body {
         color: #434455;
     }
     .team_list {
-        text-align: center;
+        /*text-align: center;
         line-height: 1.5;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
-        /*letter-spacing: 0.02em;*/
+        letter-spacing: 0.02em;*/
         background-color: #FFFFFF;
     }
 
