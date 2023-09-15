@@ -138,22 +138,9 @@ body {
         color: #2e2f42;
     }
 
-   /* .section_h_third {
-            background-color: #FFFFFF;
-            font-size: 20px;
-            font-weight: 500;
-            line-height: 1.2;
-            text-align: center;
-            /*letter-spacing: 0.02em;*/
-            text-transform: capitalize;
-        }*/
 
-    /*.section_third li {
-                background-color: #F4F4FD;
-        }*/
     .section_third_li {
         background-color: #FFFFFF;
-        
     }
 
     .section_third p{
