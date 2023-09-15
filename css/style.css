@@ -1,4 +1,4 @@
-li {list-style-type: none;}
+/*li {list-style-type: none;}*/
 
 body {
         font-family: "Roboto", sans-serif;
@@ -17,7 +17,7 @@ body {
         line-height: 1.17;
         letter-spacing: 0.03em;
         color: #4d5ae5;
-        list-style-type: none;
+        /*list-style-type: none;*/
         text-decoration: none;
         text-transform: uppercase;
     }
@@ -38,7 +38,7 @@ body {
         line-height: 1.5;
         font-weight: 500;
         /*letter-spacing: 0.02em;*/
-        list-style-type: none;
+        /*list-style-type: none;*/
         text-decoration: none;
         }    
 
@@ -53,7 +53,7 @@ body {
             line-height: 24px;
             /*letter-spacing: 0.02em;*/
             color: rgba(67, 68, 85, 1);
-            list-style-type: none;
+            /*list-style-type: none;*/
             text-decoration: none;
             font-style: normal;
     }
@@ -250,7 +250,7 @@ body {
             line-height: 21px;
             letter-spacing: 0.03em;
             color: rgba(77, 90, 229, 1);
-            list-style-type: none;
+            /*list-style-type: none;*/
             text-decoration: none
     }
     
